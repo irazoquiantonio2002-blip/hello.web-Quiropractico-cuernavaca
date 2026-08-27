@@ -1,0 +1,12 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Quiropráctico Cuernavaca">
+  <!-- Columna vertebral: curva en S con vértebras apiladas -->
+  <path d="M38 8c-6 5-9 10-9 16 0 6 4 10 4 16s-4 10-4 16"
+        stroke="#9FE3D6" stroke-width="4.2" stroke-linecap="round" opacity="0.4"/>
+  <g fill="#9FE3D6">
+    <ellipse cx="39" cy="12" rx="8.5" ry="4.4" transform="rotate(-24 39 12)"/>
+    <ellipse cx="33" cy="22" rx="9.5" ry="4.6" transform="rotate(-12 33 22)"/>
+    <ellipse cx="30" cy="32" rx="10" ry="4.7"/>
+    <ellipse cx="31" cy="42" rx="9.5" ry="4.6" transform="rotate(10 31 42)"/>
+    <ellipse cx="27" cy="52" rx="8.5" ry="4.4" transform="rotate(22 27 52)"/>
+  </g>
+</svg>
